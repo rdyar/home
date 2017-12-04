@@ -36,6 +36,12 @@ logo_text: Home
 main_nav:
   - title: "Gmail"
     url: "https://mail.google.com/mail/u/0/?tab=wm#inbox"
+  - title: Youtube
+    url: "https://www.youtube.com/"  
+  - title: G-News
+    url: https://news.google.com/news/u/0/headlines?hl=en&ned=us
+  - title: SIO
+    https://scripps.ucsd.edu/piercam
   
 
 # on screens smaller than 600px, what nav do you want to show?

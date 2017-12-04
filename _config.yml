@@ -39,9 +39,9 @@ main_nav:
   - title: Youtube
     url: "https://www.youtube.com/"  
   - title: G-News
-    url: https://news.google.com/news/u/0/headlines?hl=en&ned=us
+    url: "https://news.google.com/news/u/0/headlines?hl=en&ned=us"
   - title: SIO
-    https://scripps.ucsd.edu/piercam
+    url: "https://scripps.ucsd.edu/piercam"
   
 
 # on screens smaller than 600px, what nav do you want to show?
